@@ -12,8 +12,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: GitHub-Profile-Summary-Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
+            
         env:
-          GITHUB_TOKEN: ${{ SUMMARY_CARDS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
