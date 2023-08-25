@@ -9,6 +9,8 @@
   <img align="top" height="170px" src="https://raw.githubusercontent.com/AkaakuHub/AkaakuHub/main/profile-summary-card-output/cobalt/0-profile-details.svg" />
 </a>
 <br>
+<br>
+<br>
 <div>
   GitHub初心者です<br>
 </div>
