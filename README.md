@@ -14,3 +14,18 @@
 <div>
   GitHub初心者です<br>
 </div>
+
+
+### Main repository
+
+- https://github.com/AkaakuHub/AudioToVideo-Discord-bot<br>
+discordで音声ファイルを動画に変換します
+
+- https://github.com/AkaakuHub/LyricsExtractor<br>
+歌詞をコピペできるようにします(Chromium系、Firefox対応)
+
+- https://github.com/AkaakuHub/yt-dlp-GUI<br>
+yt-dlpをGUIから実行します(ダウンロードした動画の責任は一切負いません)
+
+- https://github.com/AkaakuHub/dShare<br>
+PC版dアニメストアからスマホ版と同じ共有ツイート(ポスト)をできるようにします
