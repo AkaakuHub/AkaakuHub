@@ -20,15 +20,11 @@
 
 - https://github.com/AkaakuHub/AudioToVideo-Discord-bot<br>
 discordで音声ファイルを動画に変換します
-<a href="https://github.com/AkaakuHub">
-  <img width="50%" alt="SCR-20230502-nedr" src="https://github.com/AkaakuHub/AkaakuHub/blob/main/thumbnail/%E9%9F%B3%E5%A3%B0%E3%81%A1%E3%82%83%E3%82%93demo.png">
-</a>
+<img width="50%" alt="SCR-20230502-nedr" src="https://github.com/AkaakuHub/AkaakuHub/blob/main/thumbnail/%E9%9F%B3%E5%A3%B0%E3%81%A1%E3%82%83%E3%82%93demo.png">
 
 - https://github.com/AkaakuHub/LyricsExtractor<br>
 歌詞をコピペできるようにします(Chromium系、Firefox対応)
-<a href="https://github.com/AkaakuHub">
-  <img width="50%" alt="SCR-20230502-nedr" src="https://github.com/AkaakuHub/AkaakuHub/blob/main/thumbnail/LyricsExtractor%E3%81%A7%E3%82%82.png">
-</a>
+<img width="50%" alt="SCR-20230502-nedr" src="https://github.com/AkaakuHub/AkaakuHub/blob/main/thumbnail/LyricsExtractor%E3%81%A7%E3%82%82.png">
 
 - https://github.com/AkaakuHub/yt-dlp-GUI<br>
 yt-dlpをGUIから実行します(ダウンロードした動画の責任は一切負いません)
