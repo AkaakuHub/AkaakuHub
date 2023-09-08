@@ -20,6 +20,7 @@
 
 - https://github.com/AkaakuHub/AudioToVideo-Discord-bot<br>
 discordで音声ファイルを動画に変換します
+<img width="50%" alt="SCR-20230502-nedr" src="https://github.com/AkaakuHub/AkaakuHub/blob/main/thumbnail/%E9%9F%B3%E5%A3%B0%E3%81%A1%E3%82%83%E3%82%93demo.png">
 
 - https://github.com/AkaakuHub/LyricsExtractor<br>
 歌詞をコピペできるようにします(Chromium系、Firefox対応)
