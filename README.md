@@ -22,7 +22,7 @@
 
 <a href="https://anirishu.vercel.app/">ここ</a>からアニメの履修登録ができます
 
-<img width="50%" alt="anirishu_img" src="https://github.com/AkaakuHub/AkaakuHub/blob/main/thumbnail/anirishu.png"
+<img width="50%" alt="anirishu_img" src="https://github.com/AkaakuHub/AkaakuHub/blob/main/thumbnail/anirishu.png">
 
 - https://github.com/AkaakuHub/AudioToVideo-Discord-bot<br>
 
