@@ -59,4 +59,4 @@ PC版dアニメストアからスマホ版と同じ共有ツイート(ポスト)
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkFXGr2HSgCBwXbH0qPEPSaMWfwsNb6JKAcw&usqp=CAU');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media.discordapp.net/attachments/929992251327787012/1248888093101264977/IMG_0871.jpg?ex=66654d2c&is=6663fbac&hm=ccd30a44e79b3a922b679ce24d46f35514d32b171e39a13ab8e4b9a8b93d1516&');]{x0000}$}
