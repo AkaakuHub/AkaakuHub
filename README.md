@@ -56,3 +56,7 @@ yt-dlpをGUIから実行します(ダウンロードした動画の責任は一�
 PC版dアニメストアからスマホ版と同じ共有ツイート(ポスト)をできるようにします
 
 <img width="50%" alt="dShare_img" src="https://github.com/AkaakuHub/AkaakuHub/blob/main/thumbnail/dShare1.png">
+
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkFXGr2HSgCBwXbH0qPEPSaMWfwsNb6JKAcw&usqp=CAU');]{x0000}$}
