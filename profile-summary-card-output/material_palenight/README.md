@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/AkaakuHub/AkaakuHub/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
+```
+
+    
