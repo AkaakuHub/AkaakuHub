@@ -1,4 +1,5 @@
-<a href="https://github.com/AkaakuHub">
+<div>
+  <a href="https://github.com/AkaakuHub">
   <img align="top" height="170px" src="https://raw.githubusercontent.com/AkaakuHub/AkaakuHub/main/profile-summary-card-output/buefy/3-stats.svg" />
 </a>
 <a href="https://github.com/AkaakuHub">
@@ -7,3 +8,7 @@
 <a href="https://github.com/AkaakuHub">
   <img align="top" height="170px" src="https://raw.githubusercontent.com/AkaakuHub/AkaakuHub/main/profile-summary-card-output/buefy/0-profile-details.svg" />
 </a>
+<a href="https://github.com/AkaakuHub">
+  <img align="top" height="170px" src="https://raw.githubusercontent.com/AkaakuHub/github-grass/refs/heads/main/github-glass.svg" />
+</a>
+</div>
